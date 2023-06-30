@@ -1,0 +1,2 @@
+class pago:
+    id = int
