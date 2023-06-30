@@ -1,2 +1,1 @@
-# practica
-Software realizado a modo de practica
+![imagen](https://github.com/ianCristianAriel/proyectos_estudios_practica/edit/main/imagen.jpg)
