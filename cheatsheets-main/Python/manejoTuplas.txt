@@ -1,0 +1,5 @@
+
+Tupla='2','we', 2,'2323','dwd'
+Tupla2=(2,34,'df', 23)
+print(Tupla)
+print(Tupla2)
