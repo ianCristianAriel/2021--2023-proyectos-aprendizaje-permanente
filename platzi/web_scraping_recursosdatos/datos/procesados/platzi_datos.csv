@@ -1,0 +1,228 @@
+,0
+0,"Curso de Inteligencia Artificial: ChatGPT, DALL-E y Hugging Face"
+1,Curso de Prompt Engineering con ChatGPT
+2,Cómo y Por Qué Aprender Data Science e Inteligencia Artificial
+3,Curso de Análisis de Negocios para Ciencia de Datos
+4,Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial
+5,Introducción a Excel para Principiantes
+6,Curso de Excel Básico
+7,Curso de Fundamentos de Matemáticas
+8,Curso de Álgebra
+9,Curso de Estadística y Probabilidad
+10,Curso de Lenguaje y Notación Matemática
+11,Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo
+12,"Curso de Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones"
+13,Curso de Pensamiento Lógico: Lenguajes de Programación
+14,Curso de Principios de Visualización de Datos para Business Intelligence
+15,Curso de Business Intelligence: Utilidad y Áreas de Oportunidad
+16,Curso de Excel Intermedio para Analistas con Tableros y Fórmulas
+17,Curso de Excel Avanzado con Macros
+18,Curso de Excel Avanzado para Análisis de Datos
+19,Curso de Fundamentos de Bases de Datos
+20,Curso de PostgreSQL
+21,Curso Práctico de SQL
+22,Curso de PostgreSQL Aplicado a Ciencia de Datos
+23,Curso Profesional de Git y GitHub
+24,Curso de Tableau: Visualización de Datos y Storytelling para Negocios
+25,Curso de Análisis de Datos con Power BI
+26,Curso de Google Data Studio
+27,Curso de Métricas para Startups en Etapa Temprana
+28,Curso de Métricas para Medir el Crecimiento de tu Negocio Digital
+29,Curso de Métricas y Dashboards para Startups
+30,Curso de Retención para Startups
+31,Curso de Fundamentos de Python
+32,"Curso de Python: Comprehensions, Funciones y Manejo de Errores"
+33,Curso de Introducción a la Terminal y Línea de Comandos
+34,Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
+35,Curso de Principios de Visualización de Datos para Business Intelligence
+36,Curso de Manipulación y Transformación de Datos con Pandas y NumPy
+37,Curso de Visualización de Datos con Matplotlib y Seaborn
+38,Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial
+39,Curso de Matemáticas para Data Science: Estadística Descriptiva
+40,Curso de Matemáticas para Data Science: Probabilidad
+41,Curso de Análisis Exploratorio de Datos
+42,Curso Profesional de Git y GitHub
+43,Curso de Python: PIP y Entornos Virtuales
+44,Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos
+45,Curso de Manejo de Datos Faltantes: Detección y Exploración
+46,Curso de Manejo de Datos Faltantes: Imputación
+47,Curso de Introducción a Machine Learning por MindsDB
+48,Curso Básico de Cálculo Diferencial para Data Science e Inteligencia Artificial
+49,Curso de Estadística Inferencial para Data Science e Inteligencia Artificial
+50,Curso de Fundamentos de Álgebra Lineal con Python
+51,Curso de Álgebra Lineal Aplicada para Machine Learning
+52,Curso de Regresión Lineal con Python y scikit-learn
+53,Curso de Regresión Logística con Python y scikit-learn
+54,Curso de Decision Trees y Random Forest con Python y scikit-learn
+55,Curso de Clustering con Python y scikit-learn
+56,Curso Profesional de Machine Learning con Scikit-Learn
+57,Curso de Fundamentos de Bases de Datos
+58,Curso de PostgreSQL
+59,Curso Práctico de SQL
+60,Curso de PostgreSQL Aplicado a Ciencia de Datos
+61,Curso para Crear tus Proyectos de Ciencia de Datos
+62,Curso de Introducción al Despliegue de Modelos de Machine Learning
+63,Laboratorio de Machine Learning: Optimización de Modelos
+64,Laboratorio de Machine Learning: Puesta en Producción de Modelos
+65,Curso de Fundamentos de Ingeniería de Datos
+66,Curso de Fundamentos de Python
+67,"Curso de Python: Comprehensions, Funciones y Manejo de Errores"
+68,Curso de Introducción a la Terminal y Línea de Comandos
+69,Curso Profesional de Git y GitHub
+70,Curso de Python: PIP y Entornos Virtuales
+71,Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
+72,Curso de Principios de Visualización de Datos para Business Intelligence
+73,Curso de Manipulación y Transformación de Datos con Pandas y NumPy
+74,Curso de Visualización de Datos con Matplotlib y Seaborn
+75,Curso de Matemáticas para Data Science: Estadística Descriptiva
+76,Curso de Análisis Exploratorio de Datos
+77,Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos
+78,Curso de Manejo de Datos Faltantes: Detección y Exploración
+79,Curso de Manejo de Datos Faltantes: Imputación
+80,Curso de Fundamentos de Bases de Datos
+81,Curso de PostgreSQL
+82,Curso Práctico de SQL
+83,Curso de PostgreSQL Aplicado a Ciencia de Datos
+84,Curso de Introducción a AWS: Fundamentos de Cloud Computing
+85,"Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos"
+86,"Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning"
+87,Curso Práctico de AWS: Roles y Seguridad con IAM
+88,Curso de Fundamentos de ETL con Python y Pentaho
+89,Curso de Data Warehousing y Modelado OLAP
+90,Curso de Introducción a MongoDB
+91,Curso de Web Scraping: Extracción de Datos en la Web
+92,Curso de Fundamentos de Spark para Big Data
+93,Curso de Programación en Bash Shell
+94,Curso de Expresiones Regulares
+95,Curso de Introducción a la Administración de Servidores Linux
+96,Curso de Fundamentos de Apache Airflow
+97,Curso Práctico de AWS: Cómputo con EC2
+98,Curso Práctico de Storage en AWS
+99,Curso Práctico de Bases de Datos en AWS
+100,Curso de Big Data en AWS
+101,Curso de AWS Redshift para Manejo de Big Data
+102,Curso de Docker
+103,Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
+104,Curso de Manipulación y Transformación de Datos con Pandas y NumPy
+105,Curso de Visualización de Datos con Matplotlib y Seaborn
+106,Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial
+107,Curso de Matemáticas para Data Science: Estadística Descriptiva
+108,Curso de Matemáticas para Data Science: Probabilidad
+109,Curso de Análisis Exploratorio de Datos
+110,Curso de Python: PIP y Entornos Virtuales
+111,Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos
+112,Curso de Manejo de Datos Faltantes: Detección y Exploración
+113,Curso de Manejo de Datos Faltantes: Imputación
+114,Curso de Introducción a Machine Learning por MindsDB
+115,Curso Básico de Cálculo Diferencial para Data Science e Inteligencia Artificial
+116,Curso de Estadística Inferencial para Data Science e Inteligencia Artificial
+117,Curso de Fundamentos de Álgebra Lineal con Python
+118,Curso de Álgebra Lineal Aplicada para Machine Learning
+119,Curso de Regresión Lineal con Python y scikit-learn
+120,Curso de Regresión Logística con Python y scikit-learn
+121,Curso de Clustering con Python y scikit-learn
+122,Curso Profesional de Machine Learning con Scikit-Learn
+123,Curso para Crear tus Proyectos de Ciencia de Datos
+124,Curso de Fundamentos de Redes Neuronales con Python y Keras
+125,Curso de Redes Neuronales Convolucionales con Python y Keras
+126,Curso de Transfer Learning con Hugging Face
+127,Curso de Desarrollo de Chatbots con OpenAI
+128,Curso de Redes Neuronales con PyTorch
+129,Curso de Experimentación en Machine Learning con Hugging Face
+130,Curso Profesional de Redes Neuronales con TensorFlow
+131,Curso de Detección y Segmentación de Objetos con TensorFlow
+132,Curso Profesional de Computer Vision con TensorFlow
+133,"Curso de Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion"
+134,Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK
+135,Curso de Algoritmos de Clasificación de Texto
+136,Curso de Introducción al Desarrollo Backend
+137,"Curso de FastAPI: Introducción, Operaciones, Validaciones y Autenticación"
+138,"Curso de FastAPI: Base de Datos, Modularización y Deploy a Producción"
+139,Curso de Introducción a la Administración de Servidores Linux
+140,Curso de Fundamentos de Apache Airflow
+141,Curso de Introducción a AWS: Fundamentos de Cloud Computing
+142,"Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos"
+143,"Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning"
+144,Curso Práctico de AWS: Roles y Seguridad con IAM
+145,Curso Práctico de AWS: Cómputo con EC2
+146,Curso Práctico de Storage en AWS
+147,Curso Práctico de Bases de Datos en AWS
+148,Curso de Big Data en AWS
+149,Curso de AWS Redshift para Manejo de Big Data
+150,Curso de Infraestructura Como Código en AWS
+151,Curso de Docker
+152,Curso para Identificar y Vencer el Síndrome del Impostor
+153,Curso para Empezar a Buscar Trabajo en Tecnología
+154,Curso Gratis de Marca Personal
+155,Curso de Creación de CV
+156,Curso de Optimización del Perfil de LinkedIn
+157,Curso para Mejorar tu Perfil Profesional
+158,Curso para Conseguir Trabajo en Tecnología
+159,Curso de Marca Personal para Developers
+160,Cómo Conseguir Trabajo en Programación
+161,Curso para Preparar una Entrevista de Trabajo
+162,Curso de Entrevistas Técnicas: Estructuras de Datos y Algoritmos Avanzados
+163,Curso de Inglés para Programadores
+164,Curso de Inglés para Entrevistas de Trabajo
+165,Curso para Crear tus Proyectos de Ciencia de Datos
+166,Laboratorio de Machine Learning: Optimización de Modelos
+167,Laboratorio de Machine Learning: Puesta en Producción de Modelos
+168,Curso de Creación de Portafolio para Desarrolladores Web
+169,Curso para Conseguir Trabajo como Frontend Developer
+170,Prueba Técnica: Desarrollo Frontend con Angular
+171,Prueba Técnica: Desarrollo Frontend con JavaScript
+172,Curso de Habilidades Blandas para el Desarrollo Profesional
+173,Curso de Comunicación Efectiva para Equipos de Trabajo
+174,Curso de Comunicación Asertiva para la Vida Personal y Profesional
+175,Audiocurso sobre la Neurociencia del Feedback
+176,Audiocurso de Cómo Dar Feedback
+177,Audiocurso de Cómo Recibir Feedback
+178,Curso de Oratoria para Hablar en Público
+179,Taller de Oratoria
+180,Curso de PowerPoint: Elementos Multimedia
+181,Curso de PowerPoint: Plantillas y Vistas de Presentación
+182,Curso de Keynote
+183,Curso de Habilidades Blandas para el Desarrollo Profesional
+184,Curso de Oratoria para Hablar en Público
+185,Taller de Oratoria
+186,Curso de PowerPoint: Elementos Multimedia
+187,Curso de Keynote
+188,Curso de Ortografía Básica
+189,Curso de Escritura Online
+190,Curso Básico de Escritura Creativa
+191,Curso Avanzado de Escritura Creativa
+192,Curso de Slack para Mejorar tu Comunicación Online
+193,Audiocurso de Igualdad de Género
+194,Curso de Desarrollo de Empatía para tu Vida Personal y Profesional
+195,"Curso de Diversidad, Inclusión y No Discriminación"
+196,Curso para Entender el Feminismo
+197,Curso de Masculinidades Positivas
+198,Audiocurso de Diversidad de Género para Empresas
+199,Audiocurso de Habilidades Blandas para Mujeres Líderes
+200,Audiocurso de Liderazgo para Mujeres
+201,Curso de Prevención del Bullying
+202,Curso de Maternidad: Consejos y Experiencias para el Viaje de ser Madre
+203,Curso de Estrategias de Marketing con Perspectiva de Género
+204,Curso de Periodismo y Redes Sociales para la Inclusión y la Construcción de Paz
+205,Curso de Orientación Vocacional
+206,Curso para Encontrar tu Propósito de Vida
+207,Audiotaller para Cambiar tu Carrera Profesional
+208,Curso para Identificar y Vencer el Síndrome del Impostor
+209,Curso Gratis de Marca Personal
+210,Curso de Networking para Construir tu Red de Contactos
+211,Curso para Mejorar tu Perfil Profesional
+212,Curso para Ser Freelance Profesional
+213,Curso de Diseño y Desarrollo de Plan de Carrera
+214,Audiocurso para Lograr el Éxito en tu Nuevo Trabajo
+215,Curso para Conseguir Trabajo en Estados Unidos
+216,Curso de Fundamentos de Matemáticas
+217,Curso de Álgebra
+218,Curso de Estadística y Probabilidad
+219,Curso de Lenguaje y Notación Matemática
+220,Curso de Matemáticas Discretas
+221,Curso Básico de Cálculo Diferencial
+222,Curso de Ecuaciones Diferenciales
+223,Taller de Aplicación de Modelos Numéricos
+224,Curso de Fundamentos de Matemáticas para Física
+225,Curso de Física Mecánica Estática
+226,Curso de Matemáticas Financieras
