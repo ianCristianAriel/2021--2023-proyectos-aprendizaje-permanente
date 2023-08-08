@@ -1,0 +1,41 @@
+---
+title: "Proyecto markdown"
+author: "Ian Cristian Ariel"
+date: "2023-08-08"
+output:
+  html_document: default
+  pdf_document: default
+---
+## Lectura del dataset
+```{r}
+path <- '/home/cristian/Escritorio/fundamentos de R/mtcars.csv'
+mtcars <- read.csv(path)
+mtcars
+```
+## Filtrado de dataset por los 4 mas hp
+```{r}
+mtcars <- subset(mtcars, hp > mean(hp))  # Filtrar filas
+mtcars
+
+```
+## Pairs mtcars
+```{r}
+pairs(mtcars[,2:6])
+```
+
+## Grafico de boxplot wt
+```{r}
+ggplot(data = mtcars, aes(x = wt)) + geom_boxplot()
+```
+
+## Grafico scatter con burbujas
+```{r}
+mtcars <- subset(mtcars, hp > mean(hp))
+ggplot(
+  mtcars , aes(x=hp,
+                   y=wt, size=wt))+
+  geom_point()+
+  facet_wrap(~model)
+
+```
+
