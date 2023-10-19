@@ -1,5 +1,0 @@
-pandas
-numpy
-sqlite3
-matplotlib
-missingno
