@@ -1,0 +1,35 @@
+.statics_nav {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0px;
+    background-color: aqua;
+}
+
+.statics_nav_item {
+    display: inline-block;
+}
+
+.statics_nav_item a {
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.statics_nav_item a:hover {
+    color: blue;
+}
+
+.statics_nav_item a:active {
+    color: red;
+}
+
+.statics_nav_item a::after {
+    content: " | ";
+}
+
+div h2 ~ p {
+    color: red;
+}
+
+
