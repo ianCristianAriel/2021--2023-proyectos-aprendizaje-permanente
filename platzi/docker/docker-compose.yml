@@ -1,0 +1,18 @@
+version: '3'
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./sitio:/usr/share/nginx/html
+
+  app:
+    build: .
+    volumes:
+      - .:/app
+    command: ["python", "-m", "flask", "run", "--host=0.0.0.0"]
+    environment:
+      - FLASK_ENV=production
+    ports:
+      - "5000:5000"
